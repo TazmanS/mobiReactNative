@@ -1,0 +1,3 @@
+
+export const DISPLAY_GALLERY = "DISPLAY_GALLERY";
+export const DISPLAY_ONE_PHOTO = 'DISPLAY_ONE_PHOTO';
